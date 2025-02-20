@@ -1,0 +1,43 @@
+﻿  Bullet.cpp
+  ConsoleFramework.cpp
+C:\Users\User\Downloads\0218\ConsoleShooting-main\Enemy.h(21,14): error C2371: 'bullet': 재정의. 기본 형식이 다릅니다.
+  (소스 파일 'Bullet.cpp'을(를) 컴파일하는 중)
+  C:\Users\User\Downloads\0218\ConsoleShooting-main\Bullet.h(20,15):
+  'bullet' 선언을 참조하십시오.
+  
+C:\Users\User\Downloads\0218\ConsoleShooting-main\Enemy.h(21,14): error C2371: 'bullet': 재정의. 기본 형식이 다릅니다.
+  (소스 파일 'ConsoleFramework.cpp'을(를) 컴파일하는 중)
+  C:\Users\User\Downloads\0218\ConsoleShooting-main\Bullet.h(20,15):
+  'bullet' 선언을 참조하십시오.
+  
+C:\Users\User\Downloads\0218\ConsoleShooting-main\ConsoleFramework.cpp(47,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\User\Downloads\0218\ConsoleShooting-main\ConsoleFramework.cpp(47,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\User\Downloads\0218\ConsoleShooting-main\ConsoleFramework.cpp(53,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Downloads\0218\ConsoleShooting-main\ConsoleFramework.cpp(67,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\User\Downloads\0218\ConsoleShooting-main\ConsoleFramework.cpp(67,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Enemy.cpp
+C:\Users\User\Downloads\0218\ConsoleShooting-main\Enemy.h(21,14): error C2371: 'bullet': 재정의. 기본 형식이 다릅니다.
+  (소스 파일 'Enemy.cpp'을(를) 컴파일하는 중)
+  C:\Users\User\Downloads\0218\ConsoleShooting-main\Bullet.h(20,15):
+  'bullet' 선언을 참조하십시오.
+  
+  main.cpp
+C:\Users\User\Downloads\0218\ConsoleShooting-main\Enemy.h(21,14): error C2371: 'bullet': 재정의. 기본 형식이 다릅니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\User\Downloads\0218\ConsoleShooting-main\Bullet.h(20,15):
+  'bullet' 선언을 참조하십시오.
+  
+  Player.cpp
+C:\Users\User\Downloads\0218\ConsoleShooting-main\Enemy.h(21,14): error C2371: 'bullet': 재정의. 기본 형식이 다릅니다.
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  C:\Users\User\Downloads\0218\ConsoleShooting-main\Bullet.h(20,15):
+  'bullet' 선언을 참조하십시오.
+  
+C:\Users\User\Downloads\0218\ConsoleShooting-main\Player.cpp(18,7): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\User\Downloads\0218\ConsoleShooting-main\Player.cpp(18,34): error C2059: 구문 오류: ')'
+C:\Users\User\Downloads\0218\ConsoleShooting-main\Player.cpp(20,36): error C2059: 구문 오류: ';'
+C:\Users\User\Downloads\0218\ConsoleShooting-main\Player.cpp(23,1): error C2059: 구문 오류: '}'
+C:\Users\User\Downloads\0218\ConsoleShooting-main\Player.cpp(23,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\User\Downloads\0218\ConsoleShooting-main\Player.cpp(26,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\User\Downloads\0218\ConsoleShooting-main\Player.cpp(26,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  코드를 생성하고 있습니다...
